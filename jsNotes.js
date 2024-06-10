@@ -150,7 +150,8 @@ function addTwo(num) {
   // // const addTwo = (num) => {
   // //   let result = num + 2
   // //   return result
-  // // }
+  // // }051
+  
   // // for (let num of arrNums){
   // //   numsPlusTwo.push(addTwo(num))
   // // }
